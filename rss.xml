@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instagram</title>
+    <link>https://lidatradeir-ui.github.io/idx-e66dd47a/</link>
+    <description>Instagram</description>
+    <lastBuildDate>Tue, 28 Jul 2026 17:52:36 GMT</lastBuildDate>
+    <atom:link rel="self" href="https://lidatradeir-ui.github.io/idx-e66dd47a/rss.xml" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <item>
+      <title>Instagram</title>
+      <link>https://lidatradeir-ui.github.io/idx-e66dd47a/</link>
+      <guid isPermaLink="true">https://lidatradeir-ui.github.io/idx-e66dd47a/</guid>
+      <description></description>
+      <pubDate>Tue, 28 Jul 2026 17:52:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
